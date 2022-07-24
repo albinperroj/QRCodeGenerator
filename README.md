@@ -1,2 +1,5 @@
 # QRCodeGenerator
-This is a desktop application (WPF App) which is used to generate QR code.
+
+Simple desktop application used to generate a QR code 
+with a custom color and center image.
+
